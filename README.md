@@ -10,7 +10,7 @@
 
 I am a front-end web developer. I like to code. I love to learn new skills also I love to learn new things. My fascination with technology probably a bit high. I enjoy working with includes javaScript and react-Js.
 </br>
-<h2>🎨 Skills:</h2></br><hr>
+<h2>🎨 Skills:</h2></br>
 ✔ HTML</br>
 ✔ CSS</br>
 ✔ JAVASCRIPT</br>
