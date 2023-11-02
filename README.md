@@ -5,18 +5,20 @@
  🧑🏽‍💻 Front-end Web Developer.</br>
  🎉 I Enjoy To Write Code.</br>
  🌻 I Like To Share My Knowledge.</br>
+ </br>
+ </br>
 
 I am a front-end web developer. I like to code. I love to learn new skills also I love to learn new things. My fascination with technology probably a bit high. I enjoy working with includes javaScript and react-Js.
-
-##🎨 Skills:
-✔ HTML
-✔ CSS
-✔ JAVASCRIPT
-✔ REACT-JS
-✔ TAILWIND
-✔ BOOTSTRAP
-✔ PHOTOSHOP
-✔ MICROSOFT OFFICE
+</br>
+<h2>🎨 Skills:</h2></br>
+✔ HTML</br>
+✔ CSS</br>
+✔ JAVASCRIPT</br>
+✔ REACT-JS</br>
+✔ TAILWIND</br>
+✔ BOOTSTRAP</br>
+✔ PHOTOSHOP</br>
+✔ MICROSOFT OFFICE</br>
 
 - 🔭 I’m currently working on own project 
 - 🌱 I’m currently learning React-js 
