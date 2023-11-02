@@ -19,6 +19,7 @@ I am a front-end web developer. I like to code. I love to learn new skills also 
 ✔ BOOTSTRAP</br>
 ✔ PHOTOSHOP</br>
 ✔ MICROSOFT OFFICE</br>
+</br>
 
 - 🔭 I’m currently working on own project 
 - 🌱 I’m currently learning React-js 
