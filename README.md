@@ -1,7 +1,7 @@
 ![Front-end Web Developer](https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/397737330_638812135087550_749143532654686950_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeFPfRlK1w8E6eitbQ0-7QLBMf-k6E1eAJ8x_6ToTV4An5zDu33G-HKc6co2wxwtPJlwc-5OuKHcIVuzjT6RQuTK&_nc_ohc=H7TgKq0fAa8AX-EyHBl&_nc_ht=scontent.fdac24-4.fna&oh=00_AfA2HzZJlBJzVL9VHc0qJCRv9ZFN246sg94zLO3kZB-OKQ&oe=654702CF)
 
 <h2>Hi,This is Tanvir Ahamd 👋</h2> </br>
-</br>
+
  🧑🏽‍💻 Front-end Web Developer.</br>
  🎉 I Enjoy To Write Code.</br>
  🌻 I Like To Share My Knowledge.</br>
@@ -11,6 +11,7 @@
 I am a front-end web developer. I like to code. I love to learn new skills also I love to learn new things. My fascination with technology probably a bit high. I enjoy working with includes javaScript and react-Js.
 </br>
 <h2>🎨 Skills:</h2></br>
+<hr>
 ✔ HTML</br>
 ✔ CSS</br>
 ✔ JAVASCRIPT</br>
