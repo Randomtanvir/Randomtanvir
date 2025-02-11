@@ -14,7 +14,7 @@ I am a front-end web developer.I like to code.I love to learn new skills also I 
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 💬 Ask me about **JavaScript,React,Tailwind, next js  as well as web development.**
+- 💬 Ask me about **JavaScript,React,Tailwind, next js,mongoDB  as well as web development.**
 
 - 📫 How to reach me **tanvir.info07@gmail.com**
 
