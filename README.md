@@ -10,7 +10,7 @@ I am a front-end web developer.I like to code.I love to learn new skills also I 
 
 - 🔭 I’m currently working on [Food-Del-App](https://food-del-app-react.vercel.app/)
 
-- 🌱 I’m currently learning **React & Next.js from (LWS)**
+- 🌱 I’m currently learning **Express & Node.js from (LWS)**
 
 - 👯 I’m looking to collaborate on **Github**
 
