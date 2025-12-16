@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/109351602/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 
 <h1 align="center">Hi 👋, I'm Tanvir Ahmad</h1>
-<h3 align="center">A passionate Fullstack web-developer from Bangaldesh</h3>
+<h3 align="center">A passionate Fullstack web-developer from Bangaldesh.</h3>
 I am a Fullstack web developer.I like to code.I love to learn new skills also I love to learn new things. i Enjoy To Write Code. I Like To Share My Knowledge. My fascination with technology probably a bit high. I enjoy working with includes javaScript and react-Js. </br> </br>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
